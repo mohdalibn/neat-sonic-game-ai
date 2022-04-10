@@ -43,3 +43,15 @@ pip install opencv-python
 ```Python
 pip install numpy
 ```
+
+Download a copy of this repository onto your local machine and extract it into a suitable folder.
+- Create a Virtual Environment in that folder.
+- Install all the required Python libraries mentioned above.
+- Open a Command Prompt/Terminal in the **Root Directory** of the Project.
+- An **Example Model** is already provided in the **Root Directory** called **SonicParrallelWinner1.pkl**. To simply test the model, run the **SonicAITest.py** file as shown below.
+```Python
+python SonicAITest.py
+```
+- If you want to train your own model, then delete/move the existing model from the root directory, and run either the **SonicAI.py** file or **SonicParrallelization.py** file.
+
+- Enjoying training & testing models for Sonic the Hedgehog 2 with this project!
