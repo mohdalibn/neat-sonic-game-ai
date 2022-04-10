@@ -49,6 +49,7 @@ pip install numpy
 Download a copy of this repository onto your local machine and extract it into a suitable folder.
 - Create a Virtual Environment in that folder.
 - Install all the required Python libraries mentioned above.
+- **Buy/Download Sonic The Hedgehog 2 game rom (.md extension)** and place it in the **Rom** folder in the **Root Directory**. 
 - Open a Command Prompt/Terminal in the **Root Directory** of the Project.
 - An **Example Model** is already provided in the **Root Directory** called **SonicParrallelWinner1.pkl**. To simply test the model, run the **SonicAITest.py** file as shown below.
 ```Python
