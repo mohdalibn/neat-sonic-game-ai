@@ -53,5 +53,13 @@ Download a copy of this repository onto your local machine and extract it into a
 python SonicAITest.py
 ```
 - If you want to train your own model, then delete/move the existing model from the root directory, and run either the **SonicAI.py** file or **SonicParrallelization.py** file.
-
+- if you want to train normally, run the **SonicAI.py** file as shown below.
+```Python
+python SonicAI.py
+```
+- If you want to use your CPU to train the model in Parallel using Threads, run the **SonicParrallelization.py** file. as shown below. You can also change the number of Threads you want to use by changing the number on line 103 of the **SonicParrallelization.py** script.
+```Python
+python SonicParrallelization.py
+```
+- Finally, to test your trained model, run the file mentioned in step 4.
 - Enjoying training & testing models for Sonic the Hedgehog 2 with this project!
