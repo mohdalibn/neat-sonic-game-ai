@@ -19,3 +19,27 @@
 
 <!-- How To Use Project-->
 # ![how-to-use-project (7)](https://user-images.githubusercontent.com/95453430/162596610-3abbcdb3-59c3-4357-a1d4-6384d668bad0.svg)
+
+**Install the following Python libraries in your Virtual Environment using PIP**.
+
+*Note: The library names are **CASE-SENSITIVE** for PIP installations below. Make sure your type them correctly.*
+
+*Install NEAT for Python*
+```Python
+pip install neat-python
+```
+
+*Install OpenAI Gym Retro for Python*
+```Python
+pip install gym-retro
+```
+
+*Install OpenCV for Python*
+```Python
+pip install opencv-python
+```
+
+*Install Numpy for Python*
+```Python
+pip install numpy
+```
