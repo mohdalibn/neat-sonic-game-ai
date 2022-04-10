@@ -7,6 +7,8 @@
 <!-- Project Description -->
 # ![project-description (12)](https://user-images.githubusercontent.com/95453430/162596605-119622a6-4a48-467f-9a98-4efba1f8f156.svg)
 
+This is a **Python Project** in which we train and test neural networks to play **Sonic The Hedgehog 2** using the **Neuro Evolution of Augmented Topologies (NEAT) Algorithm**. There are three python scripts in this repository two of which are used for **Training** and one is used for **Testing**. The **SonicAI.py** script is used to train a model normally where as the the **SonicParrallelization.py** script uses the **ParallelEvaluator** feature provided by the **NEAT library** to train a model using **Multiple Threads**. In both the cases, the trained model is stored as a pickle file in the **root directory** which is then used to test the model by running the **SonicAITest.py** script.
+
 <!-- Project Tech-Stack -->
 # ![technologies-used (12)](https://user-images.githubusercontent.com/95453430/162596608-5c03c937-8d74-4333-b3d9-499747e432ad.svg)
 
