@@ -2,6 +2,7 @@
 # ![neat-sonic-game-ai](https://user-images.githubusercontent.com/95453430/162596600-14d12dd7-3281-4318-9a28-776e3ad26982.svg)
 
 <!-- Project Images -->
+![Sonic NEAT Main Image](https://user-images.githubusercontent.com/95453430/162623655-51cfc6a2-8f28-43fb-8829-520a85f0d73d.png)
 
 <!-- Project Description -->
 # ![project-description (12)](https://user-images.githubusercontent.com/95453430/162596605-119622a6-4a48-467f-9a98-4efba1f8f156.svg)
